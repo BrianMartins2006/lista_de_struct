@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Banda")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a3e90f2a572e8af9de9879d9fff48c2654ad90c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Banda")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Banda")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

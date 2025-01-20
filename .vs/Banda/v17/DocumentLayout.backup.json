@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brian\\source\\repos\\lista_de_struct\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{547DF919-0814-41B9-AD11-985FD1425004}|Banda\\Banda.csproj|c:\\users\\brian\\source\\repos\\lista_de_struct\\banda\\exercicio5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{547DF919-0814-41B9-AD11-985FD1425004}|Banda\\Banda.csproj|solutionrelative:banda\\exercicio5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{547DF919-0814-41B9-AD11-985FD1425004}|Banda\\Banda.csproj|c:\\users\\brian\\source\\repos\\lista_de_struct\\banda\\banda.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{547DF919-0814-41B9-AD11-985FD1425004}|Banda\\Banda.csproj|solutionrelative:banda\\banda.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{547DF919-0814-41B9-AD11-985FD1425004}|Banda\\Banda.csproj|c:\\users\\brian\\source\\repos\\lista_de_struct\\banda\\exercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{547DF919-0814-41B9-AD11-985FD1425004}|Banda\\Banda.csproj|solutionrelative:banda\\exercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{547DF919-0814-41B9-AD11-985FD1425004}|Banda\\Banda.csproj|c:\\users\\brian\\source\\repos\\lista_de_struct\\banda\\exercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{547DF919-0814-41B9-AD11-985FD1425004}|Banda\\Banda.csproj|solutionrelative:banda\\exercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{547DF919-0814-41B9-AD11-985FD1425004}|Banda\\Banda.csproj|c:\\users\\brian\\source\\repos\\lista_de_struct\\banda\\exercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{547DF919-0814-41B9-AD11-985FD1425004}|Banda\\Banda.csproj|solutionrelative:banda\\exercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{547DF919-0814-41B9-AD11-985FD1425004}|Banda\\Banda.csproj|c:\\users\\brian\\source\\repos\\lista_de_struct\\banda\\exercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{547DF919-0814-41B9-AD11-985FD1425004}|Banda\\Banda.csproj|solutionrelative:banda\\exercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Banda",
+              "DocumentMoniker": "C:\\Users\\brian\\Source\\Repos\\lista_de_struct\\Banda\\Banda.csproj",
+              "RelativeDocumentMoniker": "Banda\\Banda.csproj",
+              "ToolTip": "C:\\Users\\brian\\Source\\Repos\\lista_de_struct\\Banda\\Banda.csproj",
+              "RelativeToolTip": "Banda\\Banda.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-20T20:08:35.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exercicio1.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\source\\repos\\lista_de_struct\\Banda\\Exercicio1.cs",
+              "RelativeDocumentMoniker": "Banda\\Exercicio1.cs",
+              "ToolTip": "C:\\Users\\brian\\source\\repos\\lista_de_struct\\Banda\\Exercicio1.cs",
+              "RelativeToolTip": "Banda\\Exercicio1.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAgwAgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T19:29:12.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Exercicio2.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\source\\repos\\lista_de_struct\\Banda\\Exercicio2.cs",
+              "RelativeDocumentMoniker": "Banda\\Exercicio2.cs",
+              "ToolTip": "C:\\Users\\brian\\source\\repos\\lista_de_struct\\Banda\\Exercicio2.cs",
+              "RelativeToolTip": "Banda\\Exercicio2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T19:36:45.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exercicio3.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\source\\repos\\lista_de_struct\\Banda\\Exercicio3.cs",
+              "RelativeDocumentMoniker": "Banda\\Exercicio3.cs",
+              "ToolTip": "C:\\Users\\brian\\source\\repos\\lista_de_struct\\Banda\\Exercicio3.cs",
+              "RelativeToolTip": "Banda\\Exercicio3.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAB8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T19:49:33.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exercicio4.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\source\\repos\\lista_de_struct\\Banda\\Exercicio4.cs",
+              "RelativeDocumentMoniker": "Banda\\Exercicio4.cs",
+              "ToolTip": "C:\\Users\\brian\\source\\repos\\lista_de_struct\\Banda\\Exercicio4.cs",
+              "RelativeToolTip": "Banda\\Exercicio4.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAADwvxMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T19:49:53.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercicio5.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\source\\repos\\lista_de_struct\\Banda\\Exercicio5.cs",
+              "RelativeDocumentMoniker": "Banda\\Exercicio5.cs",
+              "ToolTip": "C:\\Users\\brian\\source\\repos\\lista_de_struct\\Banda\\Exercicio5.cs",
+              "RelativeToolTip": "Banda\\Exercicio5.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwBYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T19:50:16.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
