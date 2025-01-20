@@ -7,7 +7,7 @@ class TipoBanda
     public int integrantes;
     public int ranking;
 }
-class Program
+class Exercicio1
 {
     static void addBanda(List<TipoBanda> listadeBandas)
     {
